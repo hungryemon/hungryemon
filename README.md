@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**hungryemon/hungryemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World! 👋
+### Glad to see you here! 🤩 &nbsp; 
 
-Here are some ideas to get you started:
+Flutter Developer at Ostad | Software Engineer | Flutter | Android | Windows | iOS | MacOS | Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talking about Personal Stuffs:
+
+- 👨‍💻 Portfolio  [hungryemon.github.io](https://hungryemon.github.io)
+- 👨🎓 Experience Level : 3+ years
+- 🧩 Interested In : Technology, Gaming
+-💡 Equipments : Sarcasm, Knowledge, Dart, Flutter, Python, Golang, Ctrl + C, Ctrl + V
+
+### Languages and Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40px">
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PtPrashantTripathi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungryemon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
