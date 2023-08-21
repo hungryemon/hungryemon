@@ -1,12 +1,12 @@
 
-## Hello World! 👋
-### Glad to see you here! 🤩 &nbsp; 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Emon+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 Flutter Developer at Ostad | Software Engineer | Flutter | Android | Windows | iOS | MacOS | Linux
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 Portfolio  [hungryemon.github.io](https://hungryemon.github.io)
 - 👨🎓 Experience Level : 3+ years
 - 💡 Equipments : Sarcasm, Knowledge, Dart, Flutter, Python, Golang, Ctrl + C, Ctrl + V
 - 🧩 Interested In : Technology, Gaming
