@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&width=500&color=5B85CC&lines=Hi+%2C+Md+Shahed+Uddin+Emon" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&width=500&color=5B85CC&lines=Hi+%2C+I'm+Md+Shahed+Uddin+Emon" alt="Typing SVG"></a>
 </h1>  
 <p align="center">
 <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
