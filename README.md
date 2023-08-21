@@ -22,7 +22,7 @@ Flutter Developer at Ostad | Software Engineer | Flutter | Android | Windows | i
 <a href="https://github.com/PtPrashantTripathi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungryemon&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime/?username=hungryemon&layout=compact&theme=vue-dark" />
 </p>
 
 <div align="center">
