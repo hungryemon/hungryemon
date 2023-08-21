@@ -8,8 +8,9 @@ Flutter Developer at Ostad | Software Engineer | Flutter | Android | Windows | i
 
 - 👨‍💻 Portfolio  [hungryemon.github.io](https://hungryemon.github.io)
 - 👨🎓 Experience Level : 3+ years
-- 🧩 Interested In : Technology, Gaming
 - 💡 Equipments : Sarcasm, Knowledge, Dart, Flutter, Python, Golang, Ctrl + C, Ctrl + V
+- 🧩 Interested In : Technology, Gaming
+
 
 ### Languages and Tools:
 
