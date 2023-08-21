@@ -2,9 +2,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=5B85CC&lines=Hi+%2C+I'm+Emon+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-
-<p>
-Software Engineer | Flutter | Android | Windows | iOS | MacOS | Linux
+<p align="center">
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
