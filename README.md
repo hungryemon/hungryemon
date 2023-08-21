@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=5B85CC&lines=Hi+%2C+I'm+Emon+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p>
 Software Engineer | Flutter | Android | Windows | iOS | MacOS | Linux
 </p>
 
