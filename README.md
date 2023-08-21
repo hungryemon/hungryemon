@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungryemon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=tokyonight" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=hungryemon&theme=highcontrast" />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=12783266&theme=dark"></a>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=12783266&theme=dark" height="250"></a>
 </p>
 
 <div align="center">
