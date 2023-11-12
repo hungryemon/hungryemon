@@ -6,6 +6,8 @@
 <a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2022%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> <b> About Me </b>
 
 - 👨🎓 Experience Level : 3+ years
@@ -19,19 +21,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p align="center">
-<a href="https://github.com/hungryemon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungryemon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=hungryemon&theme=highcontrast" />
-  <img height="180em" src="https://github-readme-stackoverflow.vercel.app/?userID=12783266&theme=dark"></a>
-</p>
+
 
 <p align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,10 +94,17 @@ Java                     1 repo              █░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/hungryemon/hungryemon/main/assets/bar_graph.png)
 
-
- Last Updated on 12/11/2023 15:52:04 UTC
 <!--END_SECTION:waka-->
+
 </p>
+<p align="center">
+<a href="https://github.com/hungryemon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hungryemon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hungryemon&layout=compact&exclude_lang=java+r&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=hungryemon&theme=highcontrast" />
+  <img height="180em" src="https://github-readme-stackoverflow.vercel.app/?userID=12783266&theme=dark"></a>
+</p>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
