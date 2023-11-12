@@ -27,6 +27,10 @@
   <img height="180em" src="https://github-readme-stackoverflow.vercel.app/?userID=12783266&theme=dark"></a>
 </p>
 
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
