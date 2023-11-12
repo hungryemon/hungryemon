@@ -6,7 +6,7 @@
 <a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2022%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue) ![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2022%20mins-blue) 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> <b> About Me </b>
 
@@ -21,23 +21,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-
-
 <p align="center">
 <!--START_SECTION:waka-->
 
-**🐱 My GitHub Data** 
-
-> 📦 57.7 kB Used in GitHub's Storage 
- > 
-> 🏆 1,581 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -87,12 +73,6 @@ Python                   2 repos             █░░░░░░░░░░�
 Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/hungryemon/hungryemon/main/assets/bar_graph.png)
 
 <!--END_SECTION:waka-->
 
