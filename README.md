@@ -7,12 +7,8 @@
 </p>
 
 <!--START_SECTION:waka-chip-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue) ![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2033%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
 
 <!--END_SECTION:waka-chip-->
 
@@ -31,6 +27,7 @@
 
 <p align="center">
 <!--START_SECTION:waka-->
+  
 **I'm an Early 🐤** 
 
 ```text
