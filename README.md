@@ -5,13 +5,13 @@
 <p align="center">
 <a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<p align="center">
+
 <!--START_SECTION:waka-chip-->
-
+<p align="center">
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-132-blue) ![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2033%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20lines%20of%20code-blue)
-
-<!--END_SECTION:waka-chip-->
 </p>
+<!--END_SECTION:waka-chip-->
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> <b> About Me </b>
 
