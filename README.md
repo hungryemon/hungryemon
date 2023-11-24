@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-chip-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue)
 
