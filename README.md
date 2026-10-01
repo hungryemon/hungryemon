@@ -3,7 +3,7 @@
 <a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&width=500&color=5B85CC&lines=Hi+%2C+I'm+Md+Shahed+Uddin+Emon" alt="Typing SVG"></a>
 </h1>  
 <p align="center">
-<a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Dart%20|%20Flutter%20|%20Go;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://github.com/hungryemon"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Flutter%20|%20React%20|%20Django;Building%20at%20SDS%20Manager;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <!--START_SECTION:waka-chip-->
@@ -19,14 +19,16 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px"></img> <b> About Me </b>
 
-- 👨🎓 Experience Level : 7+ years
-- 💡 Equipments : Sarcasm, Knowledge, Dart, Flutter, Python, Go, Ctrl + C, Ctrl + V
+- 💼 Currently : Software Engineer II @ SDS Manager — mobile, desktop & web for EHS / chemical safety
+- 👨🎓 Experience Level : 7+ years, 10+ apps shipped to the App Store & Google Play
+- 💡 Equipments : Sarcasm, Knowledge, Dart, Flutter, TypeScript, React, Next.js, Python, Django, Go, Ctrl + C, Ctrl + V
+- 🌐 Portfolio : [hungryemon.github.io](https://hungryemon.github.io)
 - 🧩 Interested In : Technology, Gaming
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b>  Languages & Tools </b>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40px">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
